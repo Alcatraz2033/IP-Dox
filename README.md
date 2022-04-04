@@ -6,10 +6,8 @@ información importante sombre el usuario. Tambien se puede utilizar el script [
 más convincente. Esto solo demuestra lo peligroso que puede llegar a ser un simple enlace web.
 
 <p align="center">
-	<img src="https://i.imgur.com/CXRWeJM.png" width="50%" height="50%" align="left">
+	<img src="https://i.imgur.com/CXRWeJM.png" width="75%" height="75%" align="">
 </p>
-
-## IP Dox
 
 ### Instalación:
 Clonar el repositorio y cambiar los permisos
