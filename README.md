@@ -9,7 +9,8 @@ más convincente. Esto solo demuestra lo peligroso que puede llegar a ser un sim
 	<img src="https://i.imgur.com/CXRWeJM.png" width="75%" height="75%" align="">
 </p>
 
-### Instalación:
+## Instalación
+
 Clonar el repositorio y cambiar los permisos
 
 ```markdown
