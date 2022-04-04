@@ -12,7 +12,7 @@ más convincente. Esto solo demuestra lo peligroso que puede llegar a ser un sim
 ## IP Dox
 
 ### Instalación:
-Instalar dependecias, clonar el repositorio y cambiar los permisos
+Clonar el repositorio y cambiar los permisos
 
 ```markdown
 git clone https://github.com/Alcatraz2033/IP-Dox.git
