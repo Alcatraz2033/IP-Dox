@@ -5,7 +5,7 @@ en la clipboar. Su funcion es que el usuario pase por un enlace intermediario qu
 información importante sombre el usuario. Tambien se puede utilizar el script [evil link](https://github.com/Alcatraz2033/evil-link) para camuflar el enlace a uno mucho
 más convincente. Esto solo demuestra lo peligroso que puede llegar a ser un simple enlace web.
 
-<p align="center">
+<p align="left">
 	<img src="https://i.imgur.com/CXRWeJM.png" width="75%" height="75%" align="">
 </p>
 
