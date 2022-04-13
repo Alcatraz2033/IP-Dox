@@ -15,11 +15,7 @@ Clonar el repositorio y cambiar los permisos
 
 ```markdown
 git clone https://github.com/Alcatraz2033/IP-Dox.git
-
 cd ip-dox
-
 chmod +x ip_doxx.sh
-
 sudo ./ip_doxx.sh
-
 ```
