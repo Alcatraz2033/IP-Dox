@@ -14,6 +14,7 @@ más convincente. Esto solo demuestra lo peligroso que puede llegar a ser un sim
 Clonar el repositorio y cambiar los permisos
 
 ```markdown
+sudo apt install html2text
 git clone https://github.com/Alcatraz2033/IP-Dox.git
 cd IP-Dox
 chmod +x ip_doxx.sh
